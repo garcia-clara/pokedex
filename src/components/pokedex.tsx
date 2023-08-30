@@ -97,7 +97,7 @@ const Pokedex: FC = (): JSX.Element => {
       <>
          <>
             <div className="flex justify-center mt-4 font-pokemon">
-               <div className="w-[80rem] h-[55rem] bg-red-800 rounded-xl flex">
+               <div className="w-[80rem] h-[55rem] bg-red-700 rounded-xl flex">
                   <div className="w-1/2 h-full border-r-2">
                      <div className="w-100% p-8 border-b-2 flex items-center">
                         <div className="mr-8 rounded-full bg-cyan-500 w-20 h-20 border-white border-4"></div>
