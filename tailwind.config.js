@@ -6,6 +6,9 @@ export default {
     "./src/**/*.tsx",
   ],
   theme: {
+    fontFamily: {
+      'pokemon' : ['Pokemon', 'consolas']
+    },
     extend: {},
   },
   plugins: [],
