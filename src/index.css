@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 @font-face {
-    font-family: 'POKEMON';
-    src: url('../public/pokemon.ttf');
+   font-family: "POKEMON";
+   src: url("/pokemon.ttf");
 }
