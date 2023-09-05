@@ -141,7 +141,7 @@ const App: FC = (): JSX.Element => {
                               backgroundColor: useTypeColor(t.type.name),
                            }}
                         >
-                           <p className="text-3xl font-extrabold">{t.type.name}</p>
+                           <p className="text-2xl font-extrabold">{t.type.name}</p>
                         </div>
                      ))}
                   </div>
