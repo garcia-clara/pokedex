@@ -4,10 +4,6 @@ A modern Pokedex application built with **React** and **TypeScript**, using the 
 
 This project was created as a learning exercise to deepen my understanding of React and TypeScript while building a fun and interactive web application.  
 
----
-
-## Live Demo  
-
 🌐 **Try it here**: [Pokedex](https://pokedex-fefkh02le-clara-garcia.vercel.app/)  
 
 ---
