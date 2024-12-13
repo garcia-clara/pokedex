@@ -1,6 +1,6 @@
-# Pokédex App  
+# Pokedex App  
 
-A modern Pokedex application built with **React** and **TypeScript**, using the [PokéAPI](https://pokeapi.co/) to fetch Pokemon data.  
+A modern Pokedex application built with **React** and **TypeScript**, using the [PokeAPI](https://pokeapi.co/) to fetch Pokemon data.  
 
 This project was created as a learning exercise to deepen my understanding of React and TypeScript while building a fun and interactive web application.  
 
@@ -14,9 +14,9 @@ This project was created as a learning exercise to deepen my understanding of Re
 
 ## Features  
 
-- **View detailed information about Pokémon, including**:  
+- **View detailed information about Pokemon, including**:  
   - Name, ID, and sprite.  
-  - Types and abilities.  
+  - Types and description.  
   - Base stats (HP, Attack, Defense, etc.).  
 
 ---
@@ -25,5 +25,5 @@ This project was created as a learning exercise to deepen my understanding of Re
 
 - **React**: Front-end library for building the user interface.  
 - **TypeScript**: Ensures type safety and better development practices.  
-- **Axios**: For fetching data from the [PokéAPI](https://pokeapi.co/).  
+- **Axios**: For fetching data from the [PokeAPI](https://pokeapi.co/).  
 - **Tailwind CSS**: For styling the application.  
