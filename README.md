@@ -1,4 +1,4 @@
-# Pokedex App  
+# Pokedex
 
 A modern Pokedex application built with **React** and **TypeScript**, using the [PokeAPI](https://pokeapi.co/) to fetch Pokemon data.  
 
